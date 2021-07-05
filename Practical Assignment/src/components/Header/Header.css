@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.brand{
+    text-decoration: none;
+    font-family:  'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+a.navBrand.brand.navbar-brand{
+    color: #42CD8C;
+    font-size: 2rem;
+    background-color: transparent;
+    font-style:inherit;
+    font-family:MV Boli ;
+
+}
+    
+
+.brand:hover{
+    text-decoration: none;
+}
+
+.btnTestdiv{
+    float: right;
+}
+
+button.btnTest.btn.btn-primary{
+    border: 1px rgb(66, 230, 161) solid;
+    background-color: rgb(248, 250, 252);
+    color: #42CD8C;
+    font-family:  'Montserrat', sans-serif;;
+    font-size: 1rem;
+    transition: 1.5s;
+    cursor: pointer;
+    border-radius: 100px;
+}
+
+.r{
+    border: 2px solid black;
+}
